@@ -251,7 +251,7 @@ September 2011 - December 2015
 
 ### Enexum | Web Developer
 
-2008 - 2009 | Argentina
+2008 - 2009
 
 - Built accessible layouts and interactive user interfaces with HTML, CSS, and
   JavaScript.

@@ -1,13 +1,21 @@
-# Hi, I'm Diego 👋
+# Hi, I'm Diego
 
-I am a **Co-founding Software Engineer** and **Senior Frontend Expert** with over 16 years of experience building, scaling, and modernizing high-performance web applications—ranging from mission-critical platforms at Fortune 5 enterprises to zero-to-one SaaS architectures.
+I'm a **Co-Founder & Software Engineer** and **Senior Frontend Specialist** with
+16+ years of experience building, scaling, and modernizing web applications. My
+work spans zero-to-one SaaS products, enterprise platforms, frontend
+architecture, TypeScript, React, performance, and developer tooling.
 
-### 🚀 What I Do
-* **Zero-to-One Engineering:** Single-handedly architecting secure, multi-tenant SaaS platforms from scratch.
-* **Ecosystem Modernization:** Migrating legacy codebases into modern, 100% type-safe reactive stacks (React, Remix, React Router v7, Vite).
-* **Performance Engineering:** Optimizing browser runtimes, automating build pipelines, and fine-tuning high-performance infrastructure.
+## What I Do
 
----
-📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/fortesdiego/)
+- **Zero-to-one engineering:** I build secure, multi-tenant SaaS products from
+  scratch.
+- **Frontend modernization:** I migrate legacy PHP, Java, AngularJS, and CRA
+  systems to modern React, Remix, Vite, and TypeScript architectures.
+- **Performance engineering:** I optimize browser runtime behavior, build
+  pipelines, test workflows, and high-performance infrastructure.
 
-📧 [Send me an Email](mailto:daigof@gmail.com)
+## Links
+
+- [Read my full CV](https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.md)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/fortesdiego/)
+- [Send me an email](mailto:daigof@gmail.com)

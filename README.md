@@ -16,8 +16,6 @@ architecture, TypeScript, React, performance, and developer tooling.
 
 ## Links
 
-- [Read my full CV](https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.md) |
-  [Download CV in PDF](https://github.com/daigof/daigof/raw/main/Diego-Fortes-CV.pdf) |
-  [Read CV in HTML](https://htmlpreview.github.io/?https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.html)
+- [Read CV in Markdown](https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.md) | [Read CV in HTML](https://htmlpreview.github.io/?https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.html) | [Download CV in PDF](https://github.com/daigof/daigof/raw/main/Diego-Fortes-CV.pdf)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/fortesdiego/)
 - [Send me an email](mailto:daigof@gmail.com)

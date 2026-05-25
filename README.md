@@ -10,12 +10,14 @@ architecture, TypeScript, React, performance, and developer tooling.
 - **Zero-to-one engineering:** I build secure, multi-tenant SaaS products from
   scratch.
 - **Frontend modernization:** I migrate legacy PHP, Java, AngularJS, and CRA
-  systems to modern React, Remix, Vite, and TypeScript architectures.
+  systems to modern React, Vite, and TypeScript architectures.
 - **Performance engineering:** I optimize browser runtime behavior, build
   pipelines, test workflows, and high-performance infrastructure.
 
 ## Links
 
-- [Read my full CV](https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.md)
+- [Read my full CV](https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.md) |
+  [Download CV in PDF](https://github.com/daigof/daigof/raw/main/Diego-Fortes-CV.pdf) |
+  [Read CV in HTML](https://htmlpreview.github.io/?https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.html)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/fortesdiego/)
 - [Send me an email](mailto:daigof@gmail.com)

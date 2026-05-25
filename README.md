@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**daigof/daigof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Co-founding Software Engineer** and **Senior Frontend Expert** with over 16 years of experience building, scaling, and modernizing high-performance web applications—ranging from mission-critical platforms at Fortune 5 enterprises to zero-to-one SaaS architectures.
 
-Here are some ideas to get you started:
+### 🚀 What I Do
+* **Zero-to-One Engineering:** Single-handedly architecting secure, multi-tenant SaaS platforms from scratch.
+* **Ecosystem Modernization:** Migrating legacy codebases (PHP, Java, CRA) into modern, 100% type-safe reactive stacks (Remix, React Router v7, Vite).
+* **Performance Engineering:** Optimizing browser runtimes, automating build pipelines (Vite, Gulp), and fine-tuning high-performance infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+* **Languages:** TypeScript, JavaScript (ES6+), Rust, Python, SQL, Java
+* **Frontend Ecosystem:** Remix, React, Next.js, Vue.js, Angular, Jotai, TailwindCSS / SASS
+* **Backend & Systems:** Node.js, Express, Django REST Framework, MongoDB, MySQL, PostgreSQL, Enterprise CMS (Sitecore, Contentful)
+
+---
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/fortesdiego/)

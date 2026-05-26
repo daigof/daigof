@@ -45,18 +45,7 @@ February 2024 - Present | San Francisco Bay Area, Remote
 - Extended backend capabilities by designing and building Django REST APIs for
   full-stack product features.
 
-### Toptal | Senior Frontend Engineer
-
-December 2015 - Present
-
-- Delivered senior frontend and full-stack consulting engagements for global
-  companies through the Toptal network.
-- Specialized in modern frontend infrastructure, framework migrations, developer
-  tooling, performance improvements, and long-term maintainability.
-- Selected engagements include Atlas Health, Curology, PaidUp, iwoca, Sellr,
-  CUPS, Listen360, PVBid, and DoubleNet Pay.
-
-### Atlas Health | Senior Frontend Engineer, via Toptal
+### Atlas Health | Senior Frontend Engineer
 
 August 2022 - January 2024
 
@@ -73,6 +62,17 @@ August 2022 - January 2024
   code quality practices.
 - Supported staff-level architecture discussions, including technical
   feasibility, database schema design, and user interface decisions.
+
+### Toptal | Senior Frontend Engineer
+
+December 2015 - August 2022
+
+- Delivered senior frontend and full-stack consulting engagements for global
+  companies through the Toptal network.
+- Specialized in modern frontend infrastructure, framework migrations, developer
+  tooling, performance improvements, and long-term maintainability.
+- Selected engagements include Curology, PaidUp, iwoca, Sellr,
+  CUPS, Listen360, PVBid, and DoubleNet Pay.
 
 ### Curology | Senior Frontend Engineer, via Toptal
 

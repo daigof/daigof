@@ -11,8 +11,8 @@ architecture, TypeScript, React, performance, and developer tooling.
   scratch.
 - **Frontend modernization:** I migrate legacy PHP, Java, AngularJS, and CRA
   systems to modern React, Vite, and TypeScript architectures.
-- **Performance engineering:** I optimize browser runtime behavior, build
-  pipelines, test workflows, and high-performance infrastructure.
+- **Performance and reliability:** I improve build systems, runtime performance,
+  asset pipelines, testing, and cloud/security delivery.
 
 ## Links
 

@@ -11,20 +11,21 @@
 ## Summary
 
 Independent Software Architect with 17+ years of experience building web
-platforms, mobile applications, frontend architecture, and full-stack SaaS
-products. Experienced as a startup co-founder, enterprise technical lead,
-open-source contributor, and senior frontend consultant. Currently building
-independent Android, iOS, and web applications, with a strong focus on
-TypeScript, React, product architecture, developer tooling, performance, and
-reliable user experiences.
+platforms and mobile applications, designing frontend architecture, and
+delivering full-stack SaaS products. Experienced as a startup co-founder,
+enterprise technical lead, open-source contributor, and senior frontend
+consultant. Currently building independent web, iOS, and Android applications,
+with a strong focus on TypeScript, React, product architecture, developer
+tooling, performance, and reliable user experiences.
 
 ## Key Areas of Expertise
 
 - **Zero-to-one engineering:** Built secure, multi-tenant SaaS platforms from
 scratch.
-- **Independent app development:** Building Android, iOS, and web applications
-end to end, from product concept through implementation and release.
-- **Frontend modernization:** Migrated legacy Systems (PHP, Java, AngularJS, etc.) to modern React, Vite, and TypeScript architectures.
+- **Independent app development:** Building web, iOS, and Android applications
+from product concept through implementation and release.
+- **Frontend modernization:** Migrated legacy systems (PHP, Java, AngularJS,
+etc.) to modern React, Vite, and TypeScript architectures.
 - **TypeScript and product architecture:** Designed maintainable application
 structures, reusable frontend systems, and pragmatic full-stack integrations.
 - **Technical leadership:** Led contractor teams, mentored engineers, shaped
@@ -36,11 +37,11 @@ asset pipelines, testing, and cloud/security delivery.
 
 ## Experience
 
-### Independent Developer | Android, iOS & Web Apps
+### Independent Developer | Web, iOS & Android Apps
 
 May 2026 - Present | Remote
 
-- Building independent Android, iOS, and web applications, focused on practical
+- Building independent web, iOS, and Android applications focused on practical
 product design, maintainable implementation, and reliable user experiences.
 - Developing portfolio projects and experiments published at
 [nobsapps.co](https://nobsapps.co/).
@@ -279,8 +280,7 @@ server-side content delivery.
 
 - **UNLP, Universidad Nacional de La Plata** - Master's Degree, Computer
 Software Engineering, 2010 - 2011
-- **Universidad Tecnologica Nacional** - Engineering Degree, Information Systems
+- **Universidad Tecnológica Nacional** - Engineering Degree, Information Systems
 Engineering, 2003 - 2009
-- **Universidad Tecnologica Nacional** - Analyst Degree, Information Systems
+- **Universidad Tecnológica Nacional** - Analyst Degree, Information Systems
 Analyst, 2003 - 2007
-

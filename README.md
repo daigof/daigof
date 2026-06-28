@@ -1,29 +1,30 @@
-# Hi, I'm Diego
+# 🚀 Hey, I'm Diego. I build software with a simple rule: No Bullshit.
 
-I'm an **Independent Software Architect** with 17+ years of experience building
-web platforms and mobile applications, designing frontend architecture, and
-delivering full-stack SaaS products. I work across zero-to-one SaaS, enterprise
-platforms, web, iOS, and Android apps, TypeScript, React, performance, and
-developer tooling.
+I am a Full-Stack Software Engineer & Architecture Specialist. I focus on high-performance, telemetry-free, and local-first software. My primary project is **NoBS Apps**—a modern suite of Web SaaS, mobile, and desktop utilities engineered completely for user performance and absolute privacy.
 
-## What I Do
+---
 
-- **Zero-to-one engineering:** I build secure, multi-tenant SaaS products from
-  scratch.
-- **Independent app development:** I build web, iOS, and Android apps from
-  product concept through implementation and release.
-- **Frontend modernization:** I migrate legacy systems (PHP, Java, AngularJS,
-  etc.) to modern React, Vite, and TypeScript architectures.
-- **TypeScript and product architecture:** I design maintainable application
-  structures, reusable frontend systems, and pragmatic full-stack integrations.
-- **Performance and reliability:** I improve build systems, runtime performance,
-  asset pipelines, testing, and cloud/security delivery.
+### 🛠️ What I'm Engineering Behind the Scenes
+Since my core products are developed in private repositories, here is what is actively moving through my pipeline:
 
-## Links
+* **NoBS Fasting:** A minimalist, tracking-free fasting companion app built using secure, local-first storage architectures instead of harvesting user behavior data.
+* **NoBS Agenda:** A premium, ultra-lean business scheduling matrix running on a 100% static React/TypeScript architecture, secured completely at the edge via Cloudflare.
+* **Custom Code Tooling:** Building fast, local infrastructure scripts, automated deployment workflows, and secure serverless backend functions.
 
-- <a href="https://nobsapps.co/Diego-Fortes-CV.html" target="_blank" rel="noopener noreferrer">Read CV in HTML</a> |
-  <a href="https://nobsapps.co/Diego-Fortes-CV.pdf" target="_blank" rel="noopener noreferrer">Download CV in PDF</a> |
-  <a href="https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.md" target="_blank" rel="noopener noreferrer">Read CV source in Markdown</a>
-- <a href="https://nobsapps.co/" target="_blank" rel="noopener noreferrer">Open NoBS Apps Website</a>
-- <a href="https://www.linkedin.com/in/fortesdiego/" target="_blank" rel="noopener noreferrer">Connect with me on LinkedIn</a>
-- <a href="mailto:daigof@gmail.com" target="_blank" rel="noopener noreferrer">Send me an email</a>
+---
+
+### 🧰 The Minimalist Tech Stack
+I intentionally keep my development setups fast, modular, and free of unnecessary enterprise bloat:
+* **Languages & Core:** TypeScript, Node.js, Next-Gen JavaScript
+* **Infrastructure & Edge:** Cloudflare Pages, Cloudflare Workers, Cloudflare R2 (Zero-Egress Storage), Cloudflare Access / Zero Trust Perimeters
+* **Frontend Ecosystem:** React, Lean Router Chains (`wouter`), Native Component Models, Zero-Framework Plain CSS
+
+---
+
+### 💖 Back My Independent Mission
+If you value software that respects your data, runs with zero tracking scripts, and skips aggressive subscription paywalls, consider supporting my work!
+
+👉 **[Sponsor me on GitHub Sponsors](https://github.com/sponsors/daigof)** to directly fund independent, ad-free utilities built solely for the user.
+
+---
+🌐 [nobsapps.co](https://nobsapps.co/) • 💼 [LinkedIn](https://www.linkedin.com/in/fortesdiego)

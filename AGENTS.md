@@ -16,10 +16,10 @@ When `Diego-Fortes-CV.md` changes:
 
 1. Regenerate the HTML from `Diego-Fortes-CV.md` and write the result to `../nobs-apps/Diego-Fortes-CV.html`.
 2. Preserve the existing CV presentation shell in the website copy unless the user asks for a design change.
-3. Generate the PDF from the website HTML with Playwright:
+3. Generate the PDF from the website HTML with Playwright. Prefer Codex Playwright MCP when available; otherwise use the repo-local/pnpm CLI:
 
    ```sh
-   playwright pdf "file:///Users/diegofortes/proj/nobs-apps/Diego-Fortes-CV.html" ../nobs-apps/Diego-Fortes-CV.pdf
+   pnpm dlx playwright pdf "file:///Users/diegofortes/proj/nobs-apps/Diego-Fortes-CV.html" ../nobs-apps/Diego-Fortes-CV.pdf
    ```
 
 4. From `../nobs-apps`, run:

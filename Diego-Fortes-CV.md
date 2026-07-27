@@ -10,7 +10,7 @@
 
 ## Summary
 
-Independent Software Architect with 17+ years of experience building web
+Independent Software Architect with 15+ years of experience building web
 platforms and mobile applications, designing frontend architecture, and
 delivering full-stack SaaS products. Experienced as a startup co-founder,
 enterprise technical lead, open-source contributor, and senior frontend
@@ -43,7 +43,7 @@ May 2026 - Present | Remote
 
 - Building independent web, iOS, and Android applications focused on practical
 product design, maintainable implementation, and reliable user experiences.
-- Developing portfolio projects and experiments published at
+- Portfolio projects and experiments published at
 [nobsapps.co](https://nobsapps.co/).
 - Owning product direction, frontend architecture, API integration, deployment,
 and release workflows across small, focused applications.

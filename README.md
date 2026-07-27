@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm Diego. I build software with a simple rule: No Bullshit.
+# 🚀 Hey, I'm Diego.
 
 I am a Full-Stack Software Engineer & Architecture Specialist. I focus on high-performance, telemetry-free, and local-first software. My primary project is **NoBS Apps**—a modern suite of Web SaaS, mobile, and desktop utilities engineered completely for user performance and absolute privacy.
 

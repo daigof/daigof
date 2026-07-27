@@ -1,30 +1,59 @@
-# 🚀 Hey, I'm Diego.
+# Hi, I'm Diego Fortes
 
-I am a Full-Stack Software Engineer & Architecture Specialist. I focus on high-performance, telemetry-free, and local-first software. My primary project is **NoBS Apps**—a modern suite of Web SaaS, mobile, and desktop utilities engineered completely for user performance and absolute privacy.
+I am an independent software architect and hands-on engineering leader with
+15+ years of experience building web platforms, mobile applications, and
+full-stack SaaS products.
 
----
+I currently design, build, and release independent web, iOS, and Android
+applications through [NoBS Apps](https://nobsapps.co/). My work focuses on
+practical product design, maintainable architecture, performance, privacy, and
+reliable user experiences.
 
-### 🛠️ What I'm Engineering Behind the Scenes
-Since my core products are developed in private repositories, here is what is actively moving through my pipeline:
+## Current Work
 
-* **NoBS Fasting:** A minimalist, tracking-free fasting companion app built using secure, local-first storage architectures instead of harvesting user behavior data.
-* **NoBS Agenda:** A premium, ultra-lean business scheduling matrix running on a 100% static React/TypeScript architecture, secured completely at the edge via Cloudflare.
-* **Custom Code Tooling:** Building fast, local infrastructure scripts, automated deployment workflows, and secure serverless backend functions.
+- **NoBS Fasting:** A privacy-conscious fasting companion that stores personal
+data locally and does not rely on behavioral tracking.
+- **NoBS Agenda:** A focused scheduling and business-management application
+built with React, TypeScript, and cloud infrastructure.
+- **Developer tooling:** Local development utilities, automated deployment
+workflows, and serverless integrations supporting independent product delivery.
 
----
+Most product development takes place in private repositories. Public releases
+and project information are available at [nobsapps.co](https://nobsapps.co/).
 
-### 🧰 The Minimalist Tech Stack
-I intentionally keep my development setups fast, modular, and free of unnecessary enterprise bloat:
-* **Languages & Core:** TypeScript, Node.js, Next-Gen JavaScript
-* **Infrastructure & Edge:** Cloudflare Pages, Cloudflare Workers, Cloudflare R2 (Zero-Egress Storage), Cloudflare Access / Zero Trust Perimeters
-* **Frontend Ecosystem:** React, Lean Router Chains (`wouter`), Native Component Models, Zero-Framework Plain CSS
+## Selected Experience
 
----
+Before focusing on independent products, I co-founded HoundDog.ai and served as
+Staff Engineer, worked as a Senior Frontend Engineer at Atlas Health, and
+delivered long-term consulting engagements through Toptal. Earlier experience
+includes technical leadership at ExxonMobil and web application engineering at
+IBM.
 
-### 💖 Back My Independent Mission
-If you value software that respects your data, runs with zero tracking scripts, and skips aggressive subscription paywalls, consider supporting my work!
+Across these roles, I have built new SaaS platforms, modernized legacy systems,
+led frontend architecture, contributed to full-stack product development, and
+mentored engineers.
 
-👉 **[Sponsor me on GitHub Sponsors](https://github.com/sponsors/daigof)** to directly fund independent, ad-free utilities built solely for the user.
+## Areas of Focus
 
----
-🌐 [nobsapps.co](https://nobsapps.co/) • 💼 [LinkedIn](https://www.linkedin.com/in/fortesdiego)
+- Product and SaaS architecture
+- TypeScript, React, and modern frontend systems
+- Web, iOS, and Android application development
+- AWS, Google Cloud, Cloudflare, and serverless infrastructure
+- Performance, automated testing, and developer tooling
+- Technical leadership and cross-functional collaboration
+
+## Curriculum Vitae
+
+[HTML](https://nobsapps.co/Diego-Fortes-CV.html) |
+[PDF](https://nobsapps.co/Diego-Fortes-CV.pdf) |
+[Markdown source](https://github.com/daigof/daigof/blob/main/Diego-Fortes-CV.md)
+
+## Support
+
+If you find these projects useful,
+[GitHub Sponsors](https://github.com/sponsors/daigof) helps fund the continued
+development of independent, ad-free software.
+
+[Website](https://nobsapps.co/) |
+[LinkedIn](https://www.linkedin.com/in/fortesdiego) |
+[GitHub](https://github.com/daigof)

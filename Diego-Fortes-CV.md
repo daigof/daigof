@@ -8,46 +8,55 @@
 
 ## Summary
 
-Software architect and senior full-stack engineer with 15+ years of experience 
-building full-stack web applications. Experience 
-spans startup co-founding, enterprise technical leadership, open-source 
-contribution, and high-scale engineering. Specialized in zero-to-one product 
-delivery, TypeScript, React, Node.js, and cloud architectures. Combines modern web 
-standards, developer tooling, and AI-assisted workflows to build scalable, 
-reliable, and modern user experiences.
-
+Senior full-stack engineer and software architect with 15+ years of experience
+building web applications. Background spans startup co-founding, enterprise
+technical leadership, open-source contributions, and engineering at scale.
+Specializes in zero-to-one product delivery and modern web systems built with
+TypeScript, React, Node.js, and cloud technologies. Combines modern web standards,
+developer tooling, and AI-assisted workflows to deliver scalable, reliable
+products and polished user experiences.
 
 ## Core Expertise
 
-- **Product Engineering:** Taking full-stack web products from zero-to-one concept through architecture, implementation, and production release.
+- **Product Engineering:** Taking full-stack web products from concept through
+architecture, implementation, and production launch.
 - **SaaS Architecture:** Building secure, multi-tenant platforms and pragmatic
 full-stack integrations.
 - **Frontend Modernization:** Migrating legacy PHP, Java, and AngularJS systems
-to maintainable React, Vite, and TypeScript architectures.
-- **AI-Assisted Workflows:** Accelerating software development lifecycles, automated testing, and rapid prototyping using agentic AI tools and prompt engineering.
+to maintainable architectures built with React, Vite, and TypeScript.
+- **AI-Assisted Workflows:** Accelerating development, test automation, and rapid
+prototyping with agentic AI tools and prompt engineering.
 - **Performance & Reliability:** Improving build systems, runtime performance,
-asset pipelines, automated testing, and cloud delivery.
-- **Technical Leadership:** Guiding product architecture, mentoring engineers, and collaborating cross-functionally with product and design teams.
-
+asset pipelines, test coverage, and cloud delivery.
+- **Technical Leadership:** Guiding product architecture, mentoring engineers,
+and collaborating cross-functionally with product and design teams.
 
 ## References
 
-Available upon request: includes endorsement from Joohwan Oh (CTO & Co-founder, HoundDog.ai / ex-Meta & Amazon Engineering Lead).
-
+References are available upon request, including an endorsement from Joohwan Oh
+(CTO and co-founder of HoundDog.ai; former Meta and Amazon engineering lead).
 
 ## Experience
 
-### Independent Full-Stack & Mobile Engineer  
+### Independent Full-Stack & Mobile Engineer
 
-May 2026 - Present
+May 2026 – Present
 
-- **Mobile Products (iOS & Android):** Shipped 3 cross-platform apps (Fasting Tracker, Custom Timers, 2D Arcade Game) to Apple and Google stores, managing full release engineering, certificate provisioning, and store compliance.
-- **Edge Architecture & SaaS:** Architected and deployed 3 multi-tenant SaaS applications (Doctor Appointments, Salon Agenda, Store/Sales) utilizing serverless edge functions, SQL (Cloudflare D1), object storage (R2), and Zero Trust security.
-- **Rapid Prototyping & AI Workflows:** Leveraged AI-assisted development tools and cloud infrastructure (AWS, GCP, Cloudflare) to accelerate zero-to-one product delivery and system prototyping.
+- **Mobile Products (iOS & Android):** Shipped 3 cross-platform apps—a fasting
+tracker, a custom timer app, and a 2D arcade game—to the Apple App Store and
+Google Play, managing release engineering, certificate provisioning, and store
+compliance.
+- **Edge Architecture & SaaS:** Architected and deployed 3 multi-tenant SaaS
+applications for doctor appointments, salon scheduling, and store and sales
+management using serverless edge functions, SQL (Cloudflare D1), object storage
+(R2), and Zero Trust security.
+- **Rapid Prototyping & AI Workflows:** Used AI-assisted development tools and
+cloud platforms (AWS, GCP, and Cloudflare) to accelerate zero-to-one product
+delivery and system prototyping.
 
 ### HoundDog.ai | Co-Founder & Staff Engineer
 
-February 2024 - May 2026
+February 2024 – May 2026
 
 - Built the HoundDog.ai SaaS platform from the ground up as the sole frontend
 developer, using Remix, TypeScript, shadcn/ui, and Tailwind CSS.
@@ -57,29 +66,30 @@ using PropelAuth.
 Rust-based AST scanner.
 - Extended backend capabilities by designing and building Django REST APIs for
 full-stack product features.
-- Direct collaboration with CTO (ex-Meta, ex-Amazon tech lead), earning strong executive engineering references.
+- Worked directly with the CTO (a former Meta and Amazon engineering lead), who
+provided a strong professional reference.
 
 ### Atlas Health | Senior Frontend Engineer
 
-August 2022 - January 2024
+August 2022 – January 2024
 
 - Modernized the frontend build pipeline by migrating the core platform from
 Create React App to Vite, reducing build and test times from minutes to seconds
-while removing legacy security issues.
+while resolving legacy security issues.
 - Led the transition to TypeScript and helped establish a type-safe codebase.
-- Reworked unsafe Redux state management into a more predictable atomic
+- Reworked Redux-based state management into a safer, more predictable atomic
 architecture with Jotai.
 - Improved engineering standards by configuring ESLint, Prettier, and TypeScript
 tooling.
 - Added automated end-to-end test coverage with Cypress.
 - Mentored junior engineers on React, TypeScript, frontend architecture, and
 code quality practices.
-- Contributed to staff-level architecture decisions involving technical
+- Contributed to staff-level architectural decisions involving technical
 feasibility, database schemas, and user interfaces.
 
 ### Toptal | Senior Frontend Engineer
 
-December 2015 - August 2022
+December 2015 – August 2022
 
 - Delivered senior frontend and full-stack consulting engagements for global
 companies through the Toptal network.
@@ -90,7 +100,7 @@ PVBid, and DoubleNet Pay.
 
 ### Curology | Senior Frontend Engineer, via Toptal
 
-January 2019 - August 2022
+January 2019 – August 2022
 
 - Led the migration of the core web platform from a legacy PHP architecture to a
 modern React stack using Gatsby and Emotion.
@@ -103,10 +113,10 @@ workflows and interface efficiency.
 
 ### Restoration Media | Senior Full-Stack Engineer
 
-August 2017 - September 2018
+August 2017 – September 2018
 
-- Built and launched four full-stack web applications with admin panels using
-Angular, Node.js, Express, and MongoDB.
+- Built and launched four full-stack web applications with administrative panels
+using Angular, Node.js, Express, and MongoDB.
 - Designed a unified authentication architecture with Passport.js and Google
 OAuth to support single sign-on across multiple platforms.
 - Built a custom frontend asset pipeline with Gulp for EJS templates and LESS
@@ -118,7 +128,7 @@ SendGrid.
 
 ### PaidUp - Stop Chasing Payments | Senior Frontend Engineer, via Toptal
 
-January 2018 - July 2018
+January 2018 – July 2018
 
 - Redesigned and modernized the core web platform by migrating the legacy stack
 to Vue.js.
@@ -127,9 +137,9 @@ and cross-device usability.
 
 ### iwoca | Senior Frontend Engineer, via Toptal
 
-January 2018 - February 2018
+January 2018 – February 2018
 
-- Built a high-performance server-side rendered web platform using Gatsby,
+- Built a high-performance, server-side-rendered web platform using Gatsby,
 React, GraphQL, and Contentful CMS.
 - Designed Contentful data models and structured GraphQL schemas, queries, and
 mutations for efficient content delivery.
@@ -138,24 +148,24 @@ rendering performance across device sizes.
 
 ### Sellr | Senior Full-Stack Engineer, via Toptal
 
-August 2016 - July 2017
+August 2016 – July 2017
 
 - Maintained and improved four full-stack web applications backed by Node.js,
 Express, MongoDB, and MySQL.
 - Redesigned two core applications with custom responsive interfaces, replacing
 rigid framework-driven layouts.
-- Built three hybrid mobile applications with AngularJS and Ionic for iPad and
-mobile phone form factors.
+- Built three hybrid mobile applications with AngularJS and Ionic for iPads and
+mobile phones.
 - Extended a React-based product discovery application with advanced listing,
 filtering, and client-side state management.
 
 ### CUPS | Full-Stack Engineer, via Toptal
 
-March 2016 - May 2017
+March 2016 – May 2017
 
 - Modernized the frontend architecture by migrating the platform from React 0.14
 to React 15.
-- Built a lightweight CMS solution with an EJS template engine backed by
+- Built a lightweight CMS solution with the EJS template engine, backed by
 structured JSON content models.
 - Developed Node.js and Express infrastructure, including middleware, secure
 routes, and REST endpoints.
@@ -165,20 +175,20 @@ proximity rendering.
 
 ### Listen360 | Frontend Engineer, via Toptal
 
-February 2016 - December 2016
+February 2016 – December 2016
 
 - Converted high-fidelity Photoshop designs into production web interfaces with
 strong visual accuracy.
 - Built customized interactive UI components by extending and styling
 third-party jQuery plugins.
-- Developed a responsive, mobile-first layout using SASS.
+- Developed a responsive, mobile-first layout using Sass.
 - Improved platform interactivity with modular JavaScript and jQuery.
 
 ### PaidUp - Stop Chasing Payments | Frontend Engineer, via Toptal
 
-April 2016 - May 2016
+April 2016 – May 2016
 
-- Led greenfield frontend development for a new web application using AngularJS
+- Led greenfield frontend development of a new web application using AngularJS
 and Browserify.
 - Built a responsive, mobile-first interface with Materialize CSS and LESS.
 - Helped modernize the product by contributing to the migration toward Vue.js.
@@ -200,22 +210,22 @@ fidelity across device sizes.
 
 - Improved client-side runtime performance by analyzing AngularJS workflows and
 migrating critical interactions to lightweight JavaScript and jQuery.
-- Modernized the application presentation layer with modular SASS and
+- Modernized the application presentation layer with modular Sass and
 interactive jQuery components.
 
 ### Southapps | Frontend Engineer
 
-August 2015 - December 2015
+August 2015 – December 2015
 
 - Built and launched a cross-platform mobile application using Ionic and
 AngularJS.
 - Developed and styled more than 30 application screens from high-fidelity UI/UX
 mockups.
-- Created modular SASS styles for reusable, maintainable mobile interfaces.
+- Created modular Sass styles for reusable, maintainable mobile interfaces.
 
 ### ExxonMobil | Project Technical Lead & Senior Web Developer
 
-September 2011 - December 2015
+September 2011 – December 2015
 
 - Led the technical direction of two enterprise initiatives: the global
 redesign of ExxonMobil's public web presence and the migration of a Java B2B
@@ -230,19 +240,19 @@ Akamai CDN, Google Search Appliance, and Webtrends analytics.
 
 ### IBM | Web Application Engineer
 
-2011 - 2012
+2011 – 2012
 
 - Maintained and improved an enterprise J2EE web application within IBM's global
-Procurement department.
+procurement department.
 - Built client-side features with vanilla JavaScript and Prototype.js to support
-frontend performance and cross-browser behavior.
+frontend performance and cross-browser compatibility.
 - Implemented RESTful web services to integrate backend business logic and
 internal data flows.
 - Wrote SQL queries and managed persistence logic for IBM DB2 databases.
 
 ### Dridco, Zonaprop.com | Full-Stack Engineer
 
-2010 - 2011
+2010 – 2011
 
 - Built and optimized features for a high-traffic e-commerce web application
 using Java, Spring Framework, and Hibernate.
@@ -254,18 +264,18 @@ across backend services and user interfaces.
 
 ### Globant | Web Engineer, Contracted to EMC Corporation
 
-2009 - 2010
+2009 – 2010
 
 - Supported global enterprise digital platforms for EMC Corporation using
 Documentum.
 - Built data-driven layouts with XSLT, semantic HTML, CSS, and JavaScript.
 - Developed custom WordPress themes with modular CSS.
 - Created accessible HTML and CSS assets for internet marketing campaigns with
-strong email-client compatibility.
+strong compatibility across email clients.
 
 ### Enexum | Web Developer
 
-2008 - 2009
+2008 – 2009
 
 - Built accessible layouts and interactive user interfaces with HTML, CSS, and
 JavaScript.
@@ -274,12 +284,11 @@ applications.
 - Supported enterprise client work involving XSLT data transformations and
 server-side content delivery.
 
-
 ## Education
 
-- **UNLP, Universidad Nacional de La Plata** - Master's Degree, Computer
-Software Engineering, 2010 - 2011
-- **Universidad Tecnológica Nacional** - Engineering Degree, Information Systems
-Engineering, 2003 - 2009
-- **Universidad Tecnológica Nacional** - Analyst Degree, Information Systems
-Analyst, 2003 - 2007
+- **Universidad Nacional de La Plata (UNLP)** — Master's Degree in Computer
+Software Engineering, 2010 – 2011
+- **Universidad Tecnológica Nacional** — Engineering Degree in Information
+Systems Engineering, 2003 – 2009
+- **Universidad Tecnológica Nacional** — Information Systems Analyst Degree,
+2003 – 2007

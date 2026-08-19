@@ -1,57 +1,53 @@
 # Diego Fortes
 
-## Independent Software Architect | Web and Mobile Applications
+## Senior Full-Stack Engineer & Software Architect
 
 [daigof@gmail.com](mailto:daigof@gmail.com) |
 [linkedin.com/in/fortesdiego](https://www.linkedin.com/in/fortesdiego) |
 [github.com/daigof](https://github.com/daigof)
 
----
-
 ## Summary
 
-Software architect and hands-on engineering leader with 15+ years of experience
-building web platforms, mobile applications, and full-stack SaaS products.
-Experience spans startup co-founding, enterprise technical leadership,
-open-source contribution, and senior consulting. Currently designing and
-delivering independent web, iOS, and Android applications, with a focus on
-TypeScript, React, product architecture, developer tooling, performance, and
-reliable user experiences.
+Software architect and senior full-stack engineer with 15+ years of experience 
+building full-stack web applications. Experience 
+spans startup co-founding, enterprise technical leadership, open-source 
+contribution, and high-scale engineering. Specialized in zero-to-one product 
+delivery, TypeScript, React, Node.js, and cloud architectures. Combines modern web 
+standards, developer tooling, and AI-assisted workflows to build scalable, 
+reliable, and modern user experiences.
+
 
 ## Core Expertise
 
-- **Product engineering:** Taking web, iOS, and Android products from concept
-through architecture, implementation, and release.
-- **SaaS architecture:** Building secure, multi-tenant platforms and pragmatic
+- **Product Engineering:** Taking full-stack web products from zero-to-one concept through architecture, implementation, and production release.
+- **SaaS Architecture:** Building secure, multi-tenant platforms and pragmatic
 full-stack integrations.
-- **Frontend modernization:** Migrating legacy PHP, Java, and AngularJS systems
+- **Frontend Modernization:** Migrating legacy PHP, Java, and AngularJS systems
 to maintainable React, Vite, and TypeScript architectures.
-- **Technical leadership:** Leading delivery teams, mentoring engineers, and
-guiding product, data, and interface decisions.
-- **Performance and reliability:** Improving build systems, runtime performance,
+- **AI-Assisted Workflows:** Accelerating software development lifecycles, automated testing, and rapid prototyping using agentic AI tools and prompt engineering.
+- **Performance & Reliability:** Improving build systems, runtime performance,
 asset pipelines, automated testing, and cloud delivery.
-- **Cross-functional collaboration:** Working effectively with product, design,
-and engineering teams in English and Spanish.
+- **Technical Leadership:** Guiding product architecture, mentoring engineers, and collaborating cross-functionally with product and design teams.
 
----
+
+## References
+
+Available upon request: includes endorsement from Joohwan Oh (CTO & Co-founder, HoundDog.ai / ex-Meta & Amazon Engineering Lead).
+
 
 ## Experience
 
-### Independent Developer | Web and Mobile Applications
+### Independent Full-Stack & Mobile Engineer  
 
-May 2026 - Present | Remote
+May 2026 - Present
 
-- Design, build, and release focused web, iOS, and Android applications with an
-emphasis on practical product design, maintainable implementation, and
-reliability.
-- Publish portfolio projects and product experiments at
-[nobsapps.co](https://nobsapps.co/).
-- Own product direction, frontend architecture, API integration, deployment,
-and release workflows.
+- **Mobile Products (iOS & Android):** Shipped 3 cross-platform apps (Fasting Tracker, Custom Timers, 2D Arcade Game) to Apple and Google stores, managing full release engineering, certificate provisioning, and store compliance.
+- **Edge Architecture & SaaS:** Architected and deployed 3 multi-tenant SaaS applications (Doctor Appointments, Salon Agenda, Store/Sales) utilizing serverless edge functions, SQL (Cloudflare D1), object storage (R2), and Zero Trust security.
+- **Rapid Prototyping & AI Workflows:** Leveraged AI-assisted development tools and cloud infrastructure (AWS, GCP, Cloudflare) to accelerate zero-to-one product delivery and system prototyping.
 
 ### HoundDog.ai | Co-Founder & Staff Engineer
 
-February 2024 - May 2026 | San Francisco Bay Area
+February 2024 - May 2026
 
 - Built the HoundDog.ai SaaS platform from the ground up as the sole frontend
 developer, using Remix, TypeScript, shadcn/ui, and Tailwind CSS.
@@ -61,10 +57,11 @@ using PropelAuth.
 Rust-based AST scanner.
 - Extended backend capabilities by designing and building Django REST APIs for
 full-stack product features.
+- Direct collaboration with CTO (ex-Meta, ex-Amazon tech lead), earning strong executive engineering references.
 
 ### Atlas Health | Senior Frontend Engineer
 
-August 2022 - January 2024 | Seattle, Washington
+August 2022 - January 2024
 
 - Modernized the frontend build pipeline by migrating the core platform from
 Create React App to Vite, reducing build and test times from minutes to seconds
@@ -82,7 +79,7 @@ feasibility, database schemas, and user interfaces.
 
 ### Toptal | Senior Frontend Engineer
 
-December 2015 - August 2022 | US- and UK-based companies, Remote
+December 2015 - August 2022
 
 - Delivered senior frontend and full-stack consulting engagements for global
 companies through the Toptal network.
@@ -277,7 +274,6 @@ applications.
 - Supported enterprise client work involving XSLT data transformations and
 server-side content delivery.
 
----
 
 ## Education
 

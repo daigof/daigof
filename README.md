@@ -6,9 +6,9 @@ I am a software engineer with 15+ years of
 experience building and modernizing web products across startups, consulting,
 and enterprise teams.
 
-My strongest area is frontend engineering—React, TypeScript, UI architecture,
-performance, and developer tooling—but I am comfortable owning product work
-across Node.js APIs, data, cloud infrastructure, and production delivery.
+My strongest area is frontend engineering: React, TypeScript, UI architecture,
+performance, and developer tooling, but I am comfortable owning product work
+across Python, Node.js APIs, data, cloud infrastructure, and production delivery.
 
 ## What I Bring to a Team
 

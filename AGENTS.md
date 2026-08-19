@@ -19,17 +19,17 @@ When `Diego-Fortes-CV.md` changes:
 3. Generate the PDF from the website HTML with Playwright. Prefer Codex Playwright MCP when available; otherwise use the repo-local/npm CLI:
 
    ```sh
-   npm dlx playwright pdf "file:///Users/diegofortes/proj/nobs-apps/Diego-Fortes-CV.html" ../nobs-apps/Diego-Fortes-CV.pdf
+   npx playwright pdf --paper-format A4 "file:///Users/diegofortes/proj/nobs-apps/Diego-Fortes-CV.html" ../nobs-apps/Diego-Fortes-CV.pdf
    ```
 
 4. From `../nobs-apps`, run:
 
    ```sh
-   npm build
+   npm run build
    ```
 
 5. Verify that the Cloudflare Pages build output contains:
-   - `build/Diego-Fortes-CV.html`
-   - `build/Diego-Fortes-CV.pdf`
+   - `dist/Diego-Fortes-CV.html`
+   - `dist/Diego-Fortes-CV.pdf`
 
 The `daigof/README.md` should link to the public `nobsapps.co` HTML and PDF assets, plus the Markdown source on GitHub.
